@@ -41,7 +41,6 @@ The **Neonatal Health Monitoring System** is a patient-centric platform develope
 | Database       | MySQL (JDBC)           |
 | Tools          | Visual Studio Code     |
 | Analytics      | Python (NICU insights) |
-| Hosting        | AWS / Azure / GCP      |
 
 ---
 
